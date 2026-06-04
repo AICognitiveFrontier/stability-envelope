@@ -1,5 +1,5 @@
 # The Stability Envelope  
-Foundational framework for AI systems architecture, interpretive‑state mechanics, and drift analysis.  
+Framework for AI systems architecture, interpretive‑state mechanics, and drift analysis: defining stability boundaries for intelligent systems.
 
 ## Overview  
 The Stability Envelope defines the boundary conditions under which AI systems maintain coherent interpretive states.  
