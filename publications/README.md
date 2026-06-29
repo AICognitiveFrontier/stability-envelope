@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21014049.svg)](https://doi.org/10.5281/zenodo.21014049)
+
 # Publications
 
 ## Stability Envelope White Paper (Implementation Edition)
