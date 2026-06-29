@@ -12,5 +12,4 @@ As context windows grow into million‑token and multi‑million‑token ranges,
 
 ### Citation
 
-Barbara Roy. *The Stability Envelope: Upstream Boundary Architecture for Long‑Horizon AI Systems.* Catchproof LLC, 2026.  
-[https://github.com/AICognitiveFrontier/stability-envelope](https://github.com/AICognitiveFrontier/stability-envelope)
+Roy, B. (2026). The Stability Envelope™: A Mechanism‑Agnostic, Systems‑Level Boundary for AI State Stability. Zenodo. https://doi.org/10.5281/zenodo.21014049<img width="1480" height="94" alt="image" src="https://github.com/user-attachments/assets/8ae32032-43a6-4ad9-a1af-bef946e2c9a2" />
