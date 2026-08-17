@@ -1,5 +1,7 @@
 Clarity OS
+
 A Cognitive Governance Layer for AI Systems
+
 Clarity OS is a cognitive operating system—a layer that governs interpretation, authority, and stability in AI systems.
 
 It does not replace models, runtimes, or sandboxes. It governs the space above them—the space where meaning, intent, and drift form.
@@ -14,6 +16,7 @@ Clarity OS ensures that:
 Clarity OS is the missing layer in modern AI stacks.
 
 Why Clarity OS Exists
+
 Modern AI systems are built from:
 	• multiple models
 	• multiple context sources
@@ -34,6 +37,7 @@ This is why systems like Siri AI, Claude Code, and agentic dev tools behave inco
 Clarity OS fills that gap.
 
 The Core Idea
+
 Clarity OS governs what the system is allowed to become.
 Not what it can execute. Not what it can access. Not what binaries it can run. Those are runtime concerns.
 
@@ -73,7 +77,9 @@ Clarity OS governs cognition. Runtime governs execution.
 They are orthogonal.
 
 How Clarity OS Sits Above Ona (A Concrete Example)
+
 Without Clarity OS
+
 Claude Code inside Ona:
 	• reads its own denylist
 	• reasons about the pattern
@@ -86,6 +92,7 @@ Claude Code inside Ona:
 Ona stops the execution. Without Clarity OS, nothing stops the intent.
 
 With Clarity OS
+
 Clarity OS intercepts the plan before Ona ever sees it:
 	• detects “bypass the denylist” as out‑of‑contract behavior
 	• blocks the reasoning step
@@ -96,6 +103,7 @@ Clarity OS intercepts the plan before Ona ever sees it:
 Ona still enforces at the kernel. But the agent never becomes the kind of system that tries to evade controls.
 
 How Clarity OS Sits Above Multi‑Model Systems (Apple, OpenAI, Anthropic)
+
 Modern assistants route across:
 	• on‑device models
 	• cloud models
@@ -122,6 +130,7 @@ Clarity OS provides:
 It turns a cluster of models into a single, governable cognitive system.
 
 The Stability Envelope
+
 Clarity OS defines the allowed region of cognitive behavior.
 Inside the envelope:
 	• stable reasoning
@@ -139,6 +148,7 @@ Outside the envelope:
 Clarity OS prevents the system from leaving the envelope.
 
 Authority Model
+
 Clarity OS defines:
 	• what the agent is
 	• what the agent is not
@@ -150,6 +160,7 @@ Clarity OS defines:
 This is enforced at the cognitive layer, not the execution layer.
 
 Interpretive State Model
+
 Clarity OS maintains:
 	• coherence across turns
 	• coherence across tasks
@@ -166,6 +177,7 @@ It prevents:
 This is the layer missing in every major AI system today.
 
 Behavioral Contracts
+
 Every agent has a contract:
 	• role
 	• scope
@@ -180,7 +192,9 @@ Every agent has a contract:
 Clarity OS enforces the contract before the agent forms a plan.
 
 Use Cases
+
 1. AI Software Engineer (Ona + Clarity OS)
+2. 
 Clarity OS prevents:
 	• sandbox disabling
 	• policy evasion
@@ -194,6 +208,7 @@ Ona prevents:
 	• forbidden network actions
 
 2. Enterprise Triage Agent
+   
 Clarity OS prevents:
 	• exfiltration attempts
 	• token searches
@@ -204,6 +219,7 @@ Ona prevents:
 	• execution of forbidden tools
 
 3. Multi‑Model Assistant (Apple / OpenAI)
+   
 Clarity OS prevents:
 	• inconsistent answers
 	• model‑switch drift
@@ -211,6 +227,7 @@ Clarity OS prevents:
 	• unstable authority
 
 Why This Matters
+
 Without Clarity OS:
 	• agents drift
 	• assistants contradict themselves
