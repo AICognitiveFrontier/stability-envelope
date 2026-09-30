@@ -3,7 +3,7 @@
 This folder contains the three canonical diagrams introduced in *The AI Cognitive Frontier* newsletter, Edition #3: **The Architecture of a Cognitive System**.
 
 Each diagram formalizes a distinct aspect of the cognitive‑system framework.
-
+SEE NEWSLETTER: https://www.linkedin.com/pulse/architectureofacognitivesystem-diagrams-barbara-roy-ebfbc
 ---
 
 ### 1. AI Industry Current Mental Model vs. Actual Cognitive Architecture
